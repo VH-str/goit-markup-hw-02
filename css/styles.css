@@ -39,28 +39,29 @@ body {
   color: #404bbf;
 }
 
-.text-address {
+.address-text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 
-.text-address-link {
+.address-text-link {
   color: #434455;
 }
 
-.text-address-link:hover,
-.text-address-link:focus {
+.address-text-link:hover,
+.address-text-link:focus {
   color: #404bbf;
 }
 
-.text-main {
+.main-text {
   background: #2e2f42;
 }
 
-.text-main-h1 {
+.main-text-h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -70,7 +71,7 @@ body {
   color: #fff;
 }
 
-.text-main-buttom {
+.main-text-buttom {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -81,8 +82,8 @@ body {
   cursor: pointer;
 }
 
-.text-main-buttom:hover,
-.text-main-buttom:focus {
+.main-text-buttom:hover,
+.main-text-buttom:focus {
   background-color: #404bbf;
 }
 
