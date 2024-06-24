@@ -28,6 +28,9 @@ body {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
+}
+
+.text-nav-link {
   color: #2e2f42;
 }
 
