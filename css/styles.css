@@ -45,10 +45,18 @@ body {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
+}
+
+.text-address-link {
   color: #434455;
 }
 
-.border-main {
+.text-address-link:hover,
+.text-address-link:focus {
+  color: #404bbf;
+}
+
+.text-main {
   background: #2e2f42;
 }
 
@@ -70,6 +78,12 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
+  cursor: pointer;
+}
+
+.text-main-buttom:hover,
+.text-main-buttom:focus {
+  color: #404bbf;
 }
 
 .border-form1 {
