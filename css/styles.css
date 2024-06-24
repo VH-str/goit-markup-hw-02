@@ -35,23 +35,17 @@ body {
   color: #404bbf;
 }
 
-.text-navigation2 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
 .text-navigation3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
+.text-navigation3-link:hover,
+.text-navigation3-link:focus {
+  color: #404bbf;
 
 .text-address {
   font-family: "Roboto", sans-serif;
