@@ -64,7 +64,7 @@ body {
   background: #2e2f42;
 }
 
-.main-text-hoho {
+.main-text-hederone {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -90,7 +90,7 @@ body {
   background-color: #404bbf;
 }
 
-.main-list-h2 {
+.main-list-hedertwo {
   color: #2e2f42;
 }
 
@@ -112,11 +112,11 @@ body {
   color: #434455;
 }
 
-.border-form2 {
+.main-form {
   background: #f4f4fd;
 }
 
-.text-h2 {
+.main-form-text-hedertwo {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -124,6 +124,7 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .img-box {
