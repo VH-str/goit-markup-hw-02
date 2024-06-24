@@ -60,7 +60,7 @@ body {
   background: #2e2f42;
 }
 
-.text-h1 {
+.text-main-h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -83,7 +83,7 @@ body {
 
 .text-main-buttom:hover,
 .text-main-buttom:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .border-form1 {
