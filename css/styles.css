@@ -30,12 +30,12 @@ body {
   letter-spacing: 0.02em;
 }
 
-.text-nav1 {
+.text-nav1-link {
   color: #2e2f42;
 }
 
-.text-navigation1-link:hover,
-.text-navigation1-link:focus {
+.text-nav1-link:hover,
+.text-nav1-link:focus {
   color: #404bbf;
 }
 
